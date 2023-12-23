@@ -1,0 +1,22 @@
+.dataTables_paginate paging_simple_numbers{
+display: none!important;
+}
+
+#example2_paginate{
+display: none!important;
+}
+
+#example2_info{
+text-align: end !important;
+position: relative;
+left: 49em;
+}
+
+.Pagination_1{
+justify-content: right;
+margin-top: 11px;
+}
+
+
+
+

@@ -1,0 +1,17 @@
+[22-Feb-2023 09:41:59 UTC] PHP Warning:  require(/home/qwudvcjf8yxq/public_html/work/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/qwudvcjf8yxq/public_html/work/public/index.php on line 34
+[22-Feb-2023 09:41:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/qwudvcjf8yxq/public_html/work/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/qwudvcjf8yxq/public_html/work/public/index.php:34
+Stack trace:
+#0 /home/qwudvcjf8yxq/public_html/work/server.php(21): require_once()
+#1 {main}
+  thrown in /home/qwudvcjf8yxq/public_html/work/public/index.php on line 34
+[28-Feb-2023 13:00:00 Asia/kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/qwudvcjf8yxq/public_html/work/Laravel/storage/framework/views/d805e87f5813c35819d02647da597333f41aa061.php on line 142
+[16-May-2023 07:01:58 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.33. in /home/git3v3ksxrl4/public_html/e-comm.theextraweb.com/vendor/composer/platform_check.php on line 24
+[23-Aug-2023 14:20:11 Asia/kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/git3v3ksxrl4/public_html/Work/comparisionLaravel/app/Http/Controllers/Frontend/FrontendController.php on line 35
+[24-Aug-2023 17:03:54 Asia/kolkata] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\FrontendController::getSuggestions() in /home/git3v3ksxrl4/public_html/Work/comparisionLaravel/app/Http/Controllers/Frontend/FrontendController.php on line 72
+[22-Sep-2023 09:13:57 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home/git3v3ksxrl4/public_html/Work/comparisionLaravel/vendor/composer/platform_check.php on line 24
+[25-Sep-2023 05:50:35 UTC] PHP Warning:  require(/home/compareduck1/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/compareduck1/public_html/public/index.php on line 34
+[25-Sep-2023 05:50:35 UTC] PHP Fatal error:  require(): Failed opening required '/home/compareduck1/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/compareduck1/public_html/public/index.php on line 34
+[25-Sep-2023 05:50:37 UTC] PHP Warning:  require(/home/compareduck1/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/compareduck1/public_html/public/index.php on line 34
+[25-Sep-2023 05:50:37 UTC] PHP Fatal error:  require(): Failed opening required '/home/compareduck1/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/compareduck1/public_html/public/index.php on line 34
+[25-Sep-2023 05:52:58 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/compareduck1/public_html/vendor/composer/platform_check.php on line 25
+[18-Oct-2023 23:01:22 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/compareduck1/public_html/server.php on line 11

@@ -1,0 +1,1 @@
+<p></p>Dear Admin,<br>The below visitor send you the message. Kindly contact them at earliest.<br><b>Visitor Name:</b>{{$details['name']}}<br><b>Visitor Email:</b>{{$details['email']}}<br><b>Visitor Subject:</b>{{$details['sub']}}<br><b>Visitor Message:</b>{{$details['msg']}}</p>
